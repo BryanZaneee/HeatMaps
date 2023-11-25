@@ -1,0 +1,6 @@
+#ifndef HEATMAPS_HEATMAP_H
+#define HEATMAPS_HEATMAP_H
+
+
+
+#endif //HEATMAPS_HEATMAP_H
