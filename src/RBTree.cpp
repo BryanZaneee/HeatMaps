@@ -1,4 +1,7 @@
 #include <iostream>
+#include <tuple>
+#include <vector>
+
 
 using namespace std;
 

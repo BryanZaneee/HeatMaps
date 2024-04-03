@@ -46,9 +46,10 @@ vector<string> split(const string& line, char delim){
 void parseCSV(const string& filename, vector<crashData>& crashdata, bHash& crashDataMap, RBTree& RbtreeData) {
     ifstream file(filename);
     if (!file.is_open()) {
-        cout << "file can't open: error" << endl;
-        return;
+        cerr << "Failed to open " << filename << endl;
+        exit(EXIT_FAILURE);  // Exit if the file cannot be opened
     }
+    
     string line;
     getline(file, line); // Skip header line
 
