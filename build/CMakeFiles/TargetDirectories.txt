@@ -1,3 +1,0 @@
-/Users/bryanzane/programming-projects/HeatMaps/build/CMakeFiles/HeatMap.dir
-/Users/bryanzane/programming-projects/HeatMaps/build/CMakeFiles/edit_cache.dir
-/Users/bryanzane/programming-projects/HeatMaps/build/CMakeFiles/rebuild_cache.dir
